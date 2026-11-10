@@ -1,2 +1,2 @@
 # Calculadora
-projeto 
+projeto básico 
