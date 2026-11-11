@@ -1,2 +1,2 @@
 # Calculadora
-projeto básico 
+projeto básico para praticar 
