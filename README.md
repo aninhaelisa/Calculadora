@@ -1,2 +1,2 @@
 # Calculadora
-projeto básico para praticar Javascript 
+projeto básico para praticar Javascript ⭐️
